@@ -1,5 +1,7 @@
 # Daily-Planner
 
+Note: I had to create a new repo for this as no matter what i did the last update to my style sheet was not taking any effect. I had over 10 commits in the original repo, so that is why there is so few in this one. Thank you
+
 In Module 5 we were tasked to develop the javascript code to create the daily planner based off the built html and css files.
 
 Throughout this process i learned how truly dependent a script can be based off arrays.
