@@ -18,7 +18,7 @@ Using a grid system i was able to dynamically develop rows and columns to displa
 
 Link to Deployed Application
 
-https://dhruza88.github.io/Daily-Planner/
+https://dhruza88.github.io/Daily-Planner-2/
 
 ScreenShots Below:
 
